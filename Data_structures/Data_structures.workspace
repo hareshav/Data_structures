@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Data_structures" Database="" Version="10000">
+  <VirtualDirectory Name="recap">
+    <Project Name="HeapUsingPointers" Path="HeapUsingPointers/HeapUsingPointers.project" Active="No"/>
+    <Project Name="Reference" Path="Reference/Reference.project" Active="No"/>
+    <Project Name="structureUsingPointers" Path="structureUsingPointers/structureUsingPointers.project" Active="No"/>
+    <Project Name="StructInHeap" Path="StructInHeap/StructInHeap.project" Active="No"/>
+    <Project Name="StructPassingArray" Path="StructPassingArray/StructPassingArray.project" Active="No"/>
+    <Project Name="Classes" Path="Classes/Classes.project" Active="No"/>
+    <Project Name="classesConstructor" Path="classesConstructor/classesConstructor.project" Active="No"/>
+    <Project Name="Template" Path="Template/Template.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Recursion">
+    <Project Name="print" Path="print/print.project" Active="No"/>
+    <Project Name="static" Path="static/static.project" Active="No"/>
+    <Project Name="Tree_recursion" Path="Tree_recursion/Tree_recursion.project" Active="No"/>
+    <Project Name="Nested" Path="Nested/Nested.project" Active="No"/>
+    <Project Name="sumOfN" Path="sumOfN/sumOfN.project" Active="No"/>
+    <Project Name="Factorial" Path="Factorial/Factorial.project" Active="No"/>
+    <Project Name="Power" Path="Power/Power.project" Active="No"/>
+    <Project Name="Taylor_series" Path="Taylor_series/Taylor_series.project" Active="No"/>
+    <Project Name="HornerRule" Path="HornerRule/HornerRule.project" Active="No"/>
+    <Project Name="FibonacciSeries" Path="FibonacciSeries/FibonacciSeries.project" Active="No"/>
+    <Project Name="Combination" Path="Combination/Combination.project" Active="No"/>
+    <Project Name="TowerOfHanoi" Path="TowerOfHanoi/TowerOfHanoi.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="ArrayADT">
+    <Project Name="DecAndTravers" Path="DecAndTravers/DecAndTravers.project" Active="No"/>
+    <Project Name="SizeIncrese" Path="SizeIncrese/SizeIncrese.project" Active="No"/>
+    <Project Name="TwoD" Path="TwoD/TwoD.project" Active="No"/>
+    <Project Name="ADT" Path="ADT/ADT.project" Active="No"/>
+    <Project Name="Insert" Path="Insert/Insert.project" Active="No"/>
+    <Project Name="deleteArray" Path="deleteArray/deleteArray.project" Active="No"/>
+    <Project Name="Linear_search" Path="Linear_search/Linear_search.project" Active="No"/>
+    <Project Name="Binary_search" Path="Binary_search/Binary_search.project" Active="No"/>
+    <Project Name="GetSetMaxSum" Path="GetSetMaxSum/GetSetMaxSum.project" Active="No"/>
+    <Project Name="Reverse" Path="Reverse/Reverse.project" Active="No"/>
+    <Project Name="InsertIntoSorted" Path="InsertIntoSorted/InsertIntoSorted.project" Active="No"/>
+    <Project Name="Final_array" Path="Final_array/Final_array.project" Active="No"/>
+    <Project Name="ArrayCpp" Path="ArrayCpp/ArrayCpp.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="payanilla" Path="payanilla/payanilla.project" Active="No"/>
+  <VirtualDirectory Name="String">
+    <Project Name="Index" Path="Index/Index.project" Active="No"/>
+    <Project Name="Swapcase" Path="Swapcase/Swapcase.project" Active="No"/>
+    <Project Name="permutationRecursion" Path="permutationRecursion/permutationRecursion.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="StructList">
+    <Project Name="CreateAndIterate" Path="CreateAndIterate/CreateAndIterate.project" Active="No"/>
+    <Project Name="Circular" Path="Circular/Circular.project" Active="No"/>
+    <Project Name="doubly" Path="doubly/doubly.project" Active="No"/>
+    <Project Name="sdfgh" Path="sdfgh/sdfgh.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Stack">
+    <Project Name="StackArray" Path="StackArray/StackArray.project" Active="No"/>
+    <Project Name="stackLINKED" Path="stackLINKED/stackLINKED.project" Active="No"/>
+    <Project Name="ParenthesisMatching" Path="ParenthesisMatching/ParenthesisMatching.project" Active="Yes"/>
+    <Project Name="Infixtopostfix" Path="Infixtopostfix/Infixtopostfix.project" Active="No"/>
+    <Project Name="InfixToPostfix" Path="InfixToPostfix/InfixToPostfix.project" Active="No"/>
+    <Project Name="Method2" Path="Method2/Method2.project" Active="No"/>
+    <Project Name="ToALL" Path="ToALL/ToALL.project" Active="No"/>
+    <Project Name="EvaluationPostfix" Path="EvaluationPostfix/EvaluationPostfix.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Queue">
+    <Project Name="QUEUEADT" Path="QUEUEADT/QUEUEADT.project" Active="No"/>
+    <Project Name="Cqueue" Path="Cqueue/Cqueue.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="TREE">
+    <Project Name="Data_structures" Path="Data_structures/Data_structures.project" Active="No"/>
+    <Project Name="BinarySearchTree" Path="BinarySearchTree/BinarySearchTree.project" Active="No"/>
+    <Project Name="TreeSecond" Path="TreeSecond/TreeSecond.project" Active="No"/>
+    <Project Name="BST2" Path="BST2/BST2.project" Active="No"/>
+    <Project Name="AVL_TREE" Path="AVL_TREE/AVL_TREE.project" Active="No"/>
+    <Project Name="Heap" Path="Heap/Heap.project" Active="No"/>
+    <Project Name="Bst" Path="Bst/Bst.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Graphs">
+    <Project Name="BFS" Path="BFS/BFS.project" Active="No"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="ADT" ConfigName="Debug"/>
+      <Project Name="ArrayCpp" ConfigName="Debug"/>
+      <Project Name="Binary_search" ConfigName="Debug"/>
+      <Project Name="Classes" ConfigName="Debug"/>
+      <Project Name="classesConstructor" ConfigName="Debug"/>
+      <Project Name="Combination" ConfigName="Debug"/>
+      <Project Name="DecAndTravers" ConfigName="Debug"/>
+      <Project Name="deleteArray" ConfigName="Debug"/>
+      <Project Name="Factorial" ConfigName="Debug"/>
+      <Project Name="FibonacciSeries" ConfigName="Debug"/>
+      <Project Name="Final_array" ConfigName="Debug"/>
+      <Project Name="GetSetMaxSum" ConfigName="Debug"/>
+      <Project Name="HeapUsingPointers" ConfigName="Debug"/>
+      <Project Name="HornerRule" ConfigName="Debug"/>
+      <Project Name="Index" ConfigName="Debug"/>
+      <Project Name="Insert" ConfigName="Debug"/>
+      <Project Name="InsertIntoSorted" ConfigName="Debug"/>
+      <Project Name="Linear_search" ConfigName="Debug"/>
+      <Project Name="Nested" ConfigName="Debug"/>
+      <Project Name="payanilla" ConfigName="Debug"/>
+      <Project Name="Power" ConfigName="Debug"/>
+      <Project Name="print" ConfigName="Debug"/>
+      <Project Name="Reference" ConfigName="Debug"/>
+      <Project Name="Reverse" ConfigName="Debug"/>
+      <Project Name="SizeIncrese" ConfigName="Debug"/>
+      <Project Name="static" ConfigName="Debug"/>
+      <Project Name="StructInHeap" ConfigName="Debug"/>
+      <Project Name="StructPassingArray" ConfigName="Debug"/>
+      <Project Name="structureUsingPointers" ConfigName="Debug"/>
+      <Project Name="sumOfN" ConfigName="Debug"/>
+      <Project Name="Taylor_series" ConfigName="Debug"/>
+      <Project Name="Template" ConfigName="Debug"/>
+      <Project Name="TowerOfHanoi" ConfigName="Debug"/>
+      <Project Name="Tree_recursion" ConfigName="Debug"/>
+      <Project Name="TwoD" ConfigName="Debug"/>
+      <Project Name="Swapcase" ConfigName="Debug"/>
+      <Project Name="permutationRecursion" ConfigName="Debug"/>
+      <Project Name="CreateAndIterate" ConfigName="Debug"/>
+      <Project Name="Circular" ConfigName="Debug"/>
+      <Project Name="doubly" ConfigName="Debug"/>
+      <Project Name="StackArray" ConfigName="Debug"/>
+      <Project Name="stackLINKED" ConfigName="Debug"/>
+      <Project Name="ParenthesisMatching" ConfigName="Debug"/>
+      <Project Name="Infixtopostfix" ConfigName="Debug"/>
+      <Project Name="InfixToPostfix" ConfigName="Debug"/>
+      <Project Name="Method2" ConfigName="Debug"/>
+      <Project Name="ToALL" ConfigName="Debug"/>
+      <Project Name="EvaluationPostfix" ConfigName="Debug"/>
+      <Project Name="QUEUEADT" ConfigName="Debug"/>
+      <Project Name="Data_structures" ConfigName="Debug"/>
+      <Project Name="BinarySearchTree" ConfigName="Debug"/>
+      <Project Name="TreeSecond" ConfigName="Debug"/>
+      <Project Name="BST2" ConfigName="Debug"/>
+      <Project Name="AVL_TREE" ConfigName="Debug"/>
+      <Project Name="BFS" ConfigName="Debug"/>
+      <Project Name="sdfgh" ConfigName="Debug"/>
+      <Project Name="Heap" ConfigName="Debug"/>
+      <Project Name="Cqueue" ConfigName="Debug"/>
+      <Project Name="Bst" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="HeapUsingPointers" ConfigName="Release"/>
+      <Project Name="Reference" ConfigName="Release"/>
+      <Project Name="structureUsingPointers" ConfigName="Release"/>
+      <Project Name="StructInHeap" ConfigName="Release"/>
+      <Project Name="StructPassingArray" ConfigName="Release"/>
+      <Project Name="Classes" ConfigName="Release"/>
+      <Project Name="classesConstructor" ConfigName="Release"/>
+      <Project Name="Template" ConfigName="Release"/>
+      <Project Name="print" ConfigName="Release"/>
+      <Project Name="static" ConfigName="Release"/>
+      <Project Name="Tree_recursion" ConfigName="Release"/>
+      <Project Name="Nested" ConfigName="Release"/>
+      <Project Name="sumOfN" ConfigName="Release"/>
+      <Project Name="Factorial" ConfigName="Release"/>
+      <Project Name="Power" ConfigName="Release"/>
+      <Project Name="Taylor_series" ConfigName="Release"/>
+      <Project Name="HornerRule" ConfigName="Release"/>
+      <Project Name="FibonacciSeries" ConfigName="Release"/>
+      <Project Name="Combination" ConfigName="Release"/>
+      <Project Name="TowerOfHanoi" ConfigName="Release"/>
+      <Project Name="DecAndTravers" ConfigName="Release"/>
+      <Project Name="SizeIncrese" ConfigName="Release"/>
+      <Project Name="TwoD" ConfigName="Release"/>
+      <Project Name="ADT" ConfigName="Release"/>
+      <Project Name="Insert" ConfigName="Release"/>
+      <Project Name="deleteArray" ConfigName="Release"/>
+      <Project Name="Linear_search" ConfigName="Release"/>
+      <Project Name="Binary_search" ConfigName="Release"/>
+      <Project Name="GetSetMaxSum" ConfigName="Release"/>
+      <Project Name="Reverse" ConfigName="Release"/>
+      <Project Name="InsertIntoSorted" ConfigName="Release"/>
+      <Project Name="Final_array" ConfigName="Release"/>
+      <Project Name="ArrayCpp" ConfigName="Release"/>
+      <Project Name="payanilla" ConfigName="Release"/>
+      <Project Name="Index" ConfigName="Release"/>
+      <Project Name="Swapcase" ConfigName="Release"/>
+      <Project Name="permutationRecursion" ConfigName="Release"/>
+      <Project Name="CreateAndIterate" ConfigName="Release"/>
+      <Project Name="Circular" ConfigName="Release"/>
+      <Project Name="doubly" ConfigName="Release"/>
+      <Project Name="StackArray" ConfigName="Release"/>
+      <Project Name="stackLINKED" ConfigName="Release"/>
+      <Project Name="ParenthesisMatching" ConfigName="Release"/>
+      <Project Name="Infixtopostfix" ConfigName="Release"/>
+      <Project Name="InfixToPostfix" ConfigName="Release"/>
+      <Project Name="Method2" ConfigName="Release"/>
+      <Project Name="ToALL" ConfigName="Release"/>
+      <Project Name="EvaluationPostfix" ConfigName="Release"/>
+      <Project Name="QUEUEADT" ConfigName="Release"/>
+      <Project Name="Data_structures" ConfigName="Release"/>
+      <Project Name="BinarySearchTree" ConfigName="Release"/>
+      <Project Name="TreeSecond" ConfigName="Release"/>
+      <Project Name="BST2" ConfigName="Release"/>
+      <Project Name="AVL_TREE" ConfigName="Release"/>
+      <Project Name="BFS" ConfigName="Release"/>
+      <Project Name="sdfgh" ConfigName="Release"/>
+      <Project Name="Heap" ConfigName="Release"/>
+      <Project Name="Cqueue" ConfigName="Release"/>
+      <Project Name="Bst" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
